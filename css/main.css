@@ -1174,7 +1174,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff719c;
+  background: #c2aaff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2342,7 +2342,10 @@ ul.breadcrumb li + li:last-child {
   }
 }
 .site-brand-container {
-  background: #222;
+  background: url("/images/pexels-alancabello-1018805.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 @media (max-width: 991px) {
   .site-brand-container {
@@ -2574,12 +2577,9 @@ body {
 .post-block {
   background: rgba(255,255,255,0.8) none repeat scroll !important;
 }
-.site-meta {
-  background: url("/images/sidebartop.jpg");
-}
 .brand {
-  color: #2f4f4f;
+  color: #528b8b;
 }
 .site-subtitle {
-  color: #5f9ea0;
+  color: #528b8b;
 }
