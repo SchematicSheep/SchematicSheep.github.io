@@ -28,6 +28,6 @@
     "hexo-theme-landscape": "^1.0.0",
     "hexo-theme-next": "^8.21.0",
     "hexo-wordcount": "^2.0.1",
-    "highlight.js": "^11.10.0"
+    "highlight.js": "^11.11.1"
   }
 }
